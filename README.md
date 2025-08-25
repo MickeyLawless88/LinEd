@@ -75,7 +75,7 @@ Inside LinEd, type commands like `L`, `I`, `E n`, `D a,b`, `S /text/`, `R a,b /o
 REM From TC\BIN
 SET INCLUDE=C:\TC\INCLUDE
 SET LIB=C:\TC\LIB
-TCC -ml -O lined3.c
+TCC -ml -O lined.c
 ```
 This should produce `LINED.EXE` in the current directory.
 
