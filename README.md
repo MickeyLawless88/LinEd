@@ -2,7 +2,7 @@
 
 ## Overview
 
-LinEd is a full-featured, EDLIN-compatible line editor designed for MS-DOS, CP/M, and IBM-PC compatible systems. This enhanced version maintains full compatibility with the original EDLIN command set while adding modern conveniences and a professional startup experience.
+LinEd is a full-featured, EDLIN-compatible line editor designed for MS-DOS, and IBM-PC compatible systems. This enhanced version maintains full compatibility with the original EDLIN command set while adding modern conveniences and a professional startup experience.
 
 ## Key Features
 
@@ -30,7 +30,6 @@ The original LinEd featured a simple 4-line banner. This version includes a **co
 - **MS-DOS**: Full compatibility with MS-DOS systems
 - **Turbo C**: Compiled and tested with Turbo C compiler
 - **IBM-PC Compatible**: Works on IBM-PC and compatible systems
-- **CP/M**: Compatible with CP/M operating systems
 - **Serial Terminals**: Optimized for teletype and serial console environments
 
 ## Command Reference
