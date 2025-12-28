@@ -84,12 +84,12 @@ D 3,7           # Delete lines 3 through 7
 
 ### Turbo C (MS-DOS)
 ```
-tcc -ml linednew.c -o linednew.exe
+tcc -ml lined.c -o linednew.exe
 ```
 
 ### Modern C Compiler
 ```
-gcc -o linednew linednew.c
+gcc -o lined lined.c
 ```
 
 ## New Features in This Version
@@ -104,7 +104,7 @@ gcc -o linednew linednew.c
 ## File Structure
 
 ```
-linednew.c      # Main source file
+lined.c      # Main source file
 README.md       # This documentation file
 ```
 
